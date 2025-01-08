@@ -1,5 +1,5 @@
 
-# Dinghou Node.js Backend
+#  二手交易平台Nodejs后端
 
 这是一个简单的Node.js后端项目，使用MySQL数据库进行数据存储，提供RESTful API接口以供前端应用访问。
 
